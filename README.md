@@ -1,4 +1,4 @@
-# OreSim: An ore mining simulation (collaborative project)
+# OreSim: A Collaborative Project
 
  ## Team Members
 - Yovela, ybudiman@student.unimelb.edu.au, @yovelabudiman
