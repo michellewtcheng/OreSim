@@ -1,11 +1,6 @@
-# Project Assignment 1: OreSim
-*The information below is not part of the submission but is encouraged to provide*
+# OreSim: An ore mining simulation (collaborative project)
 
  ## Team Members
-- Yovela, ybudiman@student.unimelb.edu.au, @GitHub account
-- Itmam, ilabib@student.unimelb.edu.au, @GitHub account
-- Michelle, mwcheng@student.unimelb.edu.au, @GitHub account
-
- ## Documentation files
-- Link to Draw.io 
-- Link to Google doc
+- Yovela, ybudiman@student.unimelb.edu.au, @yovelabudiman
+- Itmam, ilabib@student.unimelb.edu.au, @labib08
+- Michelle, mwcheng@student.unimelb.edu.au, @michellewtcheng
