@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="OreSimStatisticsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-06-25T03:46:44" hostname="DESKTOP-4NUKS0B" time="0.008">
+  <properties/>
+  <testcase name="testStatistics" classname="OreSimStatisticsTest" time="0.008"/>
+  <system-out><![CDATA[ores = [ore.Ore@475c9c31, ore.Ore@5c86a017]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
